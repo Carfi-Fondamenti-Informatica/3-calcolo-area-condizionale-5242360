@@ -19,7 +19,7 @@ int main() {
             rettangolo = a*b;
             cout << rettangolo <<endl;
         default:
-            cout << "l'opzione scelta non esiste\n";
+            cout << "opzione non valida";
     }
     return 0;
 }
